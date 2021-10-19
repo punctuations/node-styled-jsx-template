@@ -1,0 +1,1 @@
+export const constantVariable: string = 'example';
